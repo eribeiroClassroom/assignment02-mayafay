@@ -242,7 +242,7 @@
 #
 
 defdevice       beep			dev/generic/beep.c
-defdevice	con			dev/generic/console.c
+defdevice      	con			dev/generic/console.c
 defdevice       rtclock                 dev/generic/rtclock.c
 defdevice       random                  dev/generic/random.c
 
